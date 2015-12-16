@@ -333,22 +333,6 @@ _Sudo users and admins can also use this commands in all groups_
 
 **U can use both "/" and "!"**
 
-# Installation 
-
-```bash
-# Tested on Ubuntu 14.04, for other OSs check out https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
-```
-
-```bash
-# lets install the bot
-cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git
-cd TeleSeed
-chmod +x launch.sh
-./launch.sh install
-./launch.sh # Enter a phone number & confirmation code.
-```
 ### One command
 To install everything in one command on debian-based distros, use: (useful for VPS deployment)
 ```sh
@@ -379,11 +363,11 @@ Do not contact **us** In private for support.
 _If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
 
 # Special thanks to
-[badrabbit](https://telegram.me/badrabbit)
-
+[@TGDeveloper](https://telegram.me/TGDeveloper)
+[@Hazrateh_bi_asab](https://telegram.me/Hazrateh_bi_asab)
+ 
 For Managing [@vgmbot](https://telegram.me/vgmbot) on telegram
 
-[@Vamptacus](https://telegram.me/Vamptacus)
 
 For graphic designs
 
@@ -391,11 +375,10 @@ For graphic designs
 
 
 # Our team !
-
-[badrabbit]([Telegram](https://telegram.me/badrabbit))
-
 [TGDeveloper]([Telegram](https://telegram.me/TGDeveloper))
 
 [Hazrateh_bi_asab] ([Telegram](https://telegram.me/Hazrateh_bi_asab))
+
+[badrabbit]([Telegram](https://telegram.me/badrabbit))
 
 Our cahnnel > [@vgmsupport](https://telegram.me/vgmsupport)
