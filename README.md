@@ -25,7 +25,7 @@
 ### Group creation
 >/creategroup [group name]
 >
->>/creategroup SEED
+>>/creategroup vgm
 >>>will create a group
 >>>
 >>>_Only works in realms But sudo users can use it everywhere_
@@ -57,7 +57,7 @@
 
 ### Setting Group name in realm 
 > /setname [Group_id] [text]
->>/setname 123456789 SEED
+>>/setname 123456789 vgm
 >>>This command will set [text] as name of [Group_id]
 
 ### Setting rules in realm
