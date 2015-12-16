@@ -197,7 +197,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### Changing Group name
 >/setname [name]
->>/setname SEED
+>>/setname VGM
 >>>This command will set [name] as name of groups
 
 ### Group link
@@ -333,12 +333,6 @@ _Sudo users and admins can also use this commands in all groups_
 
 **U can use both "/" and "!"**
 
-### One command
-To install everything in one command on debian-based distros, use: (useful for VPS deployment)
-```sh
-#https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SEEDTEAM/TeleSeed.git && cd TeleSeed && chmod +x launch.sh && ./launch.sh install && ./launch.sh
-```
 ### Realm configuration 
 
 After you ran bot for first time,turn it off
