@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {178618864,70153760,169696773,tonumber(TGDeveloper,Hazrateh_bi_asab,BadRabbit)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -228,10 +228,9 @@ function create_config( )
 
 
 Admins
-@badrabbit [developer & manager]
-@TGDeveloper [manager]
-@Hazrateh_bi_asab [Manager]
-
+@TGDeveloper [developer & manager]
+@Hazrateh_bi_asab [manager]
+@BadRabbit [manager]
 
 Our channels
 @vgmsupport [persion]
